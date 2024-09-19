@@ -15,7 +15,7 @@ This repository is a resource for anyone interested in learning HTML, CSS, and J
 
 | Project Title           | Description                                             |
 |-------------------------|---------------------------------------------------------|
-| [Band Name Generator](https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sleepIN) | The application combines a city name and a pet name input by the user to create a unique band name |
+| [Band Name Generator]([https://github.com/priyanshu-saraswat/java-problem-solving/tree/main/solutions/sleepIN](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/band-name-generator)) | The application combines a city name and a pet name input by the user to create a unique band name |
 
 
 ---
