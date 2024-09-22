@@ -14,17 +14,11 @@ The application consists of:
 
 ### JavaScript Functionality
 
-The core functionality is implemented in the `calculateBMI` function:
+The core functionality is implemented in the `calculate` function:
 
 - **Input Fields**: 
   - Users enter their **weight** in kilograms.
   - Users enter their **height** in meters.
-
-- **BMI Calculation**: 
-  - The formula for BMI is: 
-    \[
-    \text{BMI} = \frac{\text{weight (kg)}}{(\text{height (m)})^2}
-    \]
 
 - **Category Classification**: 
   - Based on the calculated BMI, the program classifies the result into categories such as Underweight, Normal weight, Overweight, and Obesity.
