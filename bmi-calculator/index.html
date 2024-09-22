@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>BMI Calculator</title>
+</head>
+
+<body>
+    <header id="title">
+        BMI CALCULATOR
+    </header>
+    <div id="container">
+        <div id="gender">
+            <div id="maleBox">
+                <i class="fa fa-mars" style="color: #ffffff;"></i>
+                <label for="male">MALE</label>
+                <input type="radio" name="gender" class="genderRadio" value="male" id="male">
+            </div>
+            <div id="femaleBox">
+                <i class="fa fa-venus" style="color: #ffffff;"></i>
+                <label for="female">FEMALE</label>
+                <input type="radio" name="gender" class="genderRadio" value="female" id="female">
+            </div>
+        </div>
+
+        <div id="heightBox">
+            Height
+            <div id="heightValue"></div>
+            <input type="range" value="1" min="1" max="250" class="slider" id="height">
+        </div>
+        <div id="weightAge">
+            <div id="weight">
+                Weight
+                <input type="number" id="weightValue" class="input">
+            </div>
+            <div id="age">
+                Age
+                <input type="number" id="ageValue" class="input">
+            </div>
+        </div>
+        <button onclick="calculate()">CALCULATE YOUR BMI</button>
+        <div id="output"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+
+</html>
