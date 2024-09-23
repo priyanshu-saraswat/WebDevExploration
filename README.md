@@ -18,6 +18,7 @@ This repository is a resource for anyone interested in learning HTML, CSS, and J
 | [Band Name Generator](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/band-name-generator) | The application combines a city name and a pet name input by the user to create a unique band name |
 |[Tip Calculator](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/tip-calculator) | The calculator takes in the total bill amount, the desired tip percentage, and the number of people sharing the bill, and it computes how much each person should pay, including the tip |
 |[BMI Calculator](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/bmi-calculator)|The application allows users to input their weight and height to calculate their BMI and provides a category classification based on the calculated value|
+|[Color Changer](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/color-changer)|Users can click on buttons to dynamically change the background color of the page|
 
 ---
 
