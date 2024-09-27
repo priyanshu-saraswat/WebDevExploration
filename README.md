@@ -20,6 +20,7 @@ This repository is a resource for anyone interested in learning HTML, CSS, and J
 |[BMI Calculator](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/bmi-calculator)|The application allows users to input their weight and height to calculate their BMI and provides a category classification based on the calculated value|
 |[Color Changer](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/color-changer)|Users can click on buttons to dynamically change the background color of the page|
 |[Rock Paper Scissors](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/rock-paper-scissors)|The game allows users to play against the computer by selecting one of the three options: Rock, Paper, or Scissors. The result is displayed immediately, indicating whether the user won, lost, or tied|
+|[Calculator](https://github.com/priyanshu-saraswat/WebDevExploration/tree/main/calculator)|The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also supports toggling negative numbers, clearing the display, and using parentheses for more complex calculations|
 
 ---
 
